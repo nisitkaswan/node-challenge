@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Node code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisitkaswan/node-challenge.git"
+  },
+  "author": "Nisit Kaswan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisitkaswan/node-challenge/issues"
+  },
+  "homepage": "https://github.com/nisitkaswan/node-challenge#readme"
+}
